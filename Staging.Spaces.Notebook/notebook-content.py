@@ -14,7 +14,9 @@
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
 
-print('Hello World')
+message = 'This is a variable'
+
+print(message)
 
 # METADATA ********************
 
