@@ -1,0 +1,17 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "LAKEHOUSE",
+      "note": "",
+      "type": "String",
+      "value": "OSA_Lakehouse"
+    },
+    {
+      "name": "QLIK_TENANT_URL",
+      "note": "",
+      "type": "String",
+      "value": "https://element61-qtc.eu.qlikcloud.com"
+    }
+  ]
+}
