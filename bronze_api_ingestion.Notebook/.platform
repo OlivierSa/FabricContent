@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Lakehouse",
-    "displayName": "OSA_Lakehouse"
+    "type": "Notebook",
+    "displayName": "bronze_api_ingestion"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "e99afe64-182c-9b01-4d28-c04c00f8d6ce"
+    "logicalId": "b480bf5e-9a66-aa4a-4d9e-a2828ba17bc9"
   }
 }

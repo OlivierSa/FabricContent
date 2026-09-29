@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "Qlik Data Pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "197d2258-ff6c-908d-4edd-8787ea7785c9"
+  }
+}

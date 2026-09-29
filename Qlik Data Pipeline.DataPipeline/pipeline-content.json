@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "activities": [
+      {
+        "type": "TridentNotebook",
+        "typeProperties": {
+          "notebookId": "b480bf5e-9a66-aa4a-4d9e-a2828ba17bc9",
+          "workspaceId": "00000000-0000-0000-0000-000000000000"
+        },
+        "policy": {
+          "timeout": "0.12:00:00",
+          "retry": 0,
+          "retryIntervalInSeconds": 30,
+          "secureInput": false,
+          "secureOutput": false
+        },
+        "name": "Ingestion Bronze",
+        "dependsOn": []
+      }
+    ]
+  }
+}
